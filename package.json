@@ -1,0 +1,49 @@
+{
+  "_from": "@brooons/react-native-bluetooth-escpos-printer",
+  "_id": "@brooons/react-native-bluetooth-escpos-printer@1.1.5",
+  "_inBundle": false,
+  "_integrity": "sha512-zZevtEmtzR48paMwUqjX6wCXJb7uHo6tUz7Jt77/evmz5IkEzDbkZPwo9uN6OPj673hEqycESM4EH+LmwSx3/g==",
+  "_location": "/@brooons/react-native-bluetooth-escpos-printer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@brooons/react-native-bluetooth-escpos-printer",
+    "name": "@brooons/react-native-bluetooth-escpos-printer",
+    "escapedName": "@brooons%2freact-native-bluetooth-escpos-printer",
+    "scope": "@brooons",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@brooons/react-native-bluetooth-escpos-printer/-/react-native-bluetooth-escpos-printer-1.1.5.tgz",
+  "_shasum": "3229f49fc207dcb9abed74edefca0be1059e8f73",
+  "_spec": "@brooons/react-native-bluetooth-escpos-printer",
+  "_where": "/home/thyagobatista/Projetos/quimera",
+  "author": {
+    "name": "janus j k lu"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React-Native plugin for the bluetooth ESC/POS printers.",
+  "keywords": [
+    "react-native",
+    "ESC",
+    "POS",
+    "bluetooth",
+    "printer",
+    "print"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@brooons/react-native-bluetooth-escpos-printer",
+  "peerDependencies": {
+    "react-native": ">=0.55.4"
+  },
+  "types": "index.d.ts",
+  "version": "1.1.5"
+}
