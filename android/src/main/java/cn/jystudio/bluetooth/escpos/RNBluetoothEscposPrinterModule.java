@@ -325,9 +325,9 @@ public class RNBluetoothEscposPrinterModule extends ReactContextBaseJavaModule
         }
 
         //cannot larger then devicesWith;
-        if(width > deviceWidth || width == 0){
+        /*if(width > deviceWidth || width == 0){
             width = deviceWidth;
-        }
+        }*/
 
         byte[] bytes = Base64.decode(base64encodeStr, Base64.DEFAULT);
         Bitmap mBitmap = BitmapFactory.decodeByteArray(bytes, 0, bytes.length);
